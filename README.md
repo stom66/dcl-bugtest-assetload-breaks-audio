@@ -14,3 +14,5 @@ Preloading an audio file with `AssetLoad` prevents that clip from playing on mob
 | Tada (right) | `assets/tada.wav` | no | plays on every click |
 
 Comment out the `AssetLoad.create(...)` block on WooHoo and that clip works on mobile too.
+
+## Example of mobile vs desktop
