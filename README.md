@@ -15,13 +15,10 @@ Preloading an audio file with `AssetLoad` prevents that clip from playing on mob
 
 Comment out the `AssetLoad.create(...)` block on WooHoo and that clip works on mobile too.
 
-## Example of mobile vs desktop
+---
 
+## Example of mobile vs desktop
 
 https://github.com/user-attachments/assets/c71ae634-4145-4d07-ae95-155e5416e602
 
-https://github.com/user-attachments/assets/643e0a63-f7b4-4331-a197-22bd8434d5cc
-
-
-
-
+https://github.com/user-attachments/assets/a16f82a1-444e-44f7-80ec-ca15fa778ee3
