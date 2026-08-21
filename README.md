@@ -1,4 +1,4 @@
-### `dcl-bugtest-assetload-breaks-audio
+### `dcl-bugtest-assetload-breaks-audio`
 
 # Bug: `AssetLoad` breaks audio on mobile
 
